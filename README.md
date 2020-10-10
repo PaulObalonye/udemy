@@ -11,6 +11,6 @@ this will create mysql database and also create the web application.
 database_name :- test_db
 user: root
 pass: root
-local: 172.79.0.1
+local: 172.79.0.3
 
 enjoy!
